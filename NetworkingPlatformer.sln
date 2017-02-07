@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingPlatformer.Plugins", "NetworkingPlatformer.Plugins.csproj", "{05BEE598-4117-5C0B-E728-E1375F65FD05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingPlatformer", "NetworkingPlatformer.csproj", "{468B1A13-650C-E36E-B497-DD2DBA9A111A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkingPlatformer.Editor.Plugins", "NetworkingPlatformer.Editor.Plugins.csproj", "{ED83B36C-5425-F4A9-24E5-F5C6EF01B575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05BEE598-4117-5C0B-E728-E1375F65FD05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BEE598-4117-5C0B-E728-E1375F65FD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BEE598-4117-5C0B-E728-E1375F65FD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BEE598-4117-5C0B-E728-E1375F65FD05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468B1A13-650C-E36E-B497-DD2DBA9A111A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468B1A13-650C-E36E-B497-DD2DBA9A111A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468B1A13-650C-E36E-B497-DD2DBA9A111A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468B1A13-650C-E36E-B497-DD2DBA9A111A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED83B36C-5425-F4A9-24E5-F5C6EF01B575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED83B36C-5425-F4A9-24E5-F5C6EF01B575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED83B36C-5425-F4A9-24E5-F5C6EF01B575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED83B36C-5425-F4A9-24E5-F5C6EF01B575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
